@@ -1,14 +1,13 @@
 #include <stdio.h>
-#include <string.h>
 #include <unistd.h>
 
 /**
-* main - print the string in the put function
-*
-* Description: using the main function
-* this program prints "Programming is like building a multilingual puzzle
-* Return: 1
-*/
+ * main - print quote
+ *
+ * Description: prints Dora's quotes
+ * 
+ * Return: Always 1 (Success)
+ */
 int main(void)
 {
 	int s = strlen("and that piece of art is useful - Dora Korpar, 2015-10-19\n");
