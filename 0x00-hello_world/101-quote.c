@@ -3,9 +3,12 @@
 #include <unistd.h>
 
 /**
- * main - main block
- * Return: 1
- */
+* main - print the string in the put function
+*
+* Description: using the main function
+* this program prints "Programming is like building a multilingual puzzle
+* Return: 1
+*/
 int main(void)
 {
 	int s = strlen("and that piece of art is useful - Dora Korpar, 2015-10-19\n");
